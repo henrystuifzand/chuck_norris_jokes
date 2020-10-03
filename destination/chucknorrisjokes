@@ -1,0 +1,11 @@
+#
+#Sat Oct 03 14:11:02 UTC 2020
+Description=Chuck Norris Jokes
+Type=HTTP
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=chucknorrisjokes
+WebIDEEnabled=true
+URL=http\://api.icndb.com
+ProxyType=Internet
+WebIDESystem=chucknorrisjokes

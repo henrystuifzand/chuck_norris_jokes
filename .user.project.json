@@ -1,0 +1,66 @@
+{
+  "run": [
+    {
+      "filePath": "/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "fiorirunner",
+        "id": 7148957,
+        "displayName": "Run Component.js",
+        "lastRunTimeStamp": 1474551522414
+      }
+    },
+    {
+      "filePath": "/chuck_norris_jokes/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": null,
+      "_metadata": {
+        "runnerId": "qunitrunner",
+        "id": 4885089,
+        "displayName": "New Unit Test 17",
+        "lastRunTimeStamp": 1473083255449
+      }
+    },
+    {
+      "filePath": "/chuck_norris_jokes/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1409284,
+        "displayName": "New Web Application 29"
+      }
+    }
+  ],
+  "hybrid": {
+    "dirty": true,
+    "cordovaContainerId": "",
+    "cordovaPackageId": "",
+    "commonError": "Only two apps are allowed per SAP Cloud Platform trial account.\n\nGo to the Fiori Mobile admin console, and delete an existing app if two apps are already present. If less than two apps are displayed in the admin console, go to the mobile service for development & operations cockpit, delete an app.\n\nThen build this project again.  (error token 59957fd7496af).",
+    "callStart": "2017-08-17T11:36:54.979Z",
+    "packagingEnd": "",
+    "packagingStart": "",
+    "results": {
+      "ios": {},
+      "android": {
+        "requested": true
+      }
+    }
+  }
+}

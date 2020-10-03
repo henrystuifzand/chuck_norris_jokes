@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "chuck_norris_jokes",
+        "description": "Chuck Norris Quote Generator",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#chuck_norris_jokes-Display",
+        "navigationComponentName": "chuck.norris.jokes",
+        "intentSemanticObject": "chuck_norris_jokes",
+        "intentAction": "Display",
+        "html5ApplicationName": "chucknorrisjokes",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "ea39b1b7-04d6-449e-bd78-bf920d54fb82-1468083189279"
+        ],
+        "contentPackages": [
+            "dd6c1e46-b6dd-4248-890c-15d84c87b89f-1468083295685"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Chuck Norris Joke",
+        "subtitle": "Generate Quotes",
+        "searchKeywords": "Chuck Norris Joke,Generate Quotes",
+        "displayIconUrl": "sap-icon://employee",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
